@@ -21,3 +21,16 @@ Gustavo</a></h1>
     <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,firebase,github,html,js,mongodb,mysql,nodejs,postman,tailwind,ts,swift,nestjs,vue&perline=14" />
   </a>
 </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `graduate` at [Faculty of Engineering](https://www.ingenieria.unam.mx/index.php) at [Universidad Nacional Autonoma de Mexico (UNAM)](https://www.unam.mx/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Node JS`, `Vue JS`, `Swift`.
+- :student: I have a diplomado in `iOS App Development`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1aJGgyWv29tKEB49aIKTY_mq6EeeABx18/view?usp=drive_link).
+<br>
