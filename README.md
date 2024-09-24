@@ -18,7 +18,7 @@ Gustavo</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,firebase,github,html,js,mongodb,mysql,nodejs,postman,tailwind,ts,swift,nestjs,vue&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,prisma,express,firebase,github,html,js,mongodb,mysql,nodejs,go,postman,tailwind,ts,swift,nestjs,vue&perline=14" />
   </a>
 </p>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
